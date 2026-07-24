@@ -71,8 +71,8 @@ INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX27', 'Dermatit
 INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX28', 'Fracture - Wrist');
 INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX29', 'Fracture - Hip');
 INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX30', 'Back Pain (Low Back Pain)');
-INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX31', 'Parkinson’s Disease');
-INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX32', 'Alzheimer’s Disease');
+INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX31', 'ParkinsonÂ’s Disease');
+INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX32', 'AlzheimerÂ’s Disease');
 INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX33', 'Chronic Liver Disease');
 INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX34', 'Alcohol Use Disorder');
 INSERT INTO Dim_Diagnosis (DiagnosisID, DiagnosisName) VALUES ('DX35', 'Pneumothorax');
