@@ -71,7 +71,7 @@ WHERE d.DepartmentCategory IS NOT NULL
 
 
 -- Data Cleaning (Patient Visits Table)
----- Merge all yearly visit tables (2020–2025) into one consolidated PatientVisits table
+---- Merge all yearly visit tables (2020â€“2025) into one consolidated PatientVisits table
 
 CREATE TABLE PatientVisits (
   VisitID         VARCHAR(20) PRIMARY KEY,
